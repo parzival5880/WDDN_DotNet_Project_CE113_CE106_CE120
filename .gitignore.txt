@@ -1,0 +1,7 @@
+/App_Start
+/Content
+/Fonts
+/obj
+/Properties
+/bin
+/Scripts
